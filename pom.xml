@@ -42,7 +42,7 @@
 
   <profiles>
     <profile>
-        <id>RS</id>
+        <id>SS</id>
 
         <build>
             <plugins>
@@ -54,7 +54,7 @@
 
                     <configuration>
                         <suiteXmlFiles>
-                            <suiteXmlFile>RegressionSuite.xml</suiteXmlFile>
+                            <suiteXmlFile>SmokeSuite.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
 
